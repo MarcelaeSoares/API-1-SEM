@@ -1,13 +1,13 @@
 # API-1-SEM
 
-# Aprendizado por Projeto Integrador (API)
+># Aprendizado por Projeto Integrador (API)
 O Projeto Integrador oferece uma experiência prática da metodologia ágil SCRUM tendo como finalidade desenvolver e avaliar a capacidade dos integrantes do grupo de se organizar, planejar e trabalhar em equipe para a resolução de problemas reais, procurando desenvolver a Proatividade, Autonomia e a Colaboração.
 
 # Índice 
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Equipe](#Equipe)
-* [Backlog do produto](#Product-Backlog)
-* [Registro das Sprints](#Registro-das-Sprints)
+* [Equipe](#equipe)
+* [Backlog do produto](#product-backlog)
+* [Registro das Sprints](#registro-das-sprints)
 
 
 # Projeto (API) 
@@ -20,7 +20,7 @@ Este Projeto Integrador visa desenvolver a construção de dashboards interativo
 | Scrum Master  | Marcela Santos |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcela-santos-829672302/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MarcelaeSoares)     |
 | Team Member   | Lilian Carlini     |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-carlini-37b41a29?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Lilicarlini)        |
 |  Team Member  | Leonardo Nogueira     |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-nogueira-5b0199383/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LeoNogueiraMaxx)        |
-|  Team Member  | Kauã Zanelato         |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-zanelato-945765196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/kauazanelato)   |
+
  
 
 
@@ -42,6 +42,7 @@ Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exporta
 * Google Colab
 * Phyton
 * Biblioteca Pandhas
+* Obs Studio
 * Excel
 * Canvas
 
@@ -51,18 +52,18 @@ Este projeto dividido em 3 Sprints tem como finalidade utilizar dados de exporta
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como economista, quero ter uma visão macroeconômica abrangente da balança comercial, exportações, importações do Brasil para analise e tomada de decisões  | 5          | 1      |
-| 2    | Alta       | Como analista de logística, quero saber os modais logísticos, ferroviários, hidroviátios, aeroviários utilizados por cada município, estado,análise territorial mais precisa e fundamentada.| 2          | 1      |
-| 3    | Média       |Como especialista em inteligência do mercado, quero saber os produtos exportados por cada estado, município do estado de São Paulo, para identificar potenciais clientes estratégicos para cada categoria de produto.                     | 3          | 1      |
-| 4  | Alta      | Como analista de comércio exterior, quero que sejam fornecidos dados detalhados, quantitativos, e qualitativos a cerca do cenário de importação e exportação brasileiro, para promover uma compreensão abrangente do posicionamento e da competitividade da economia nacional no mercado global.                                                                                                                         | 3        | 2    |
-| 5  | Média      | Como consultor tributário, quero que sejam eclucidadas as alíqoutas tarifárias e os pactos ou tratados internacionais vigentes, para viabilizar a identificação da estratégia operacionalç e fiscal mais otimizada a ser implementada. | 8          | 2      |
-| 6  | Alta      | Como gerente de logística, que que sejam explicitados as modalidades de transporte empregados, para otimizar o planejamento e o gerenciamento do fluxo e da entrega da carga encomendada.| 4     | 2      |
-| 7 | Média      |Como economista sênior, quero que seja analisado o impacto das entidades com maior volume de importação no desempenho e na estrutura da economia regional, para subsidias uma avaliação mais rigorosa das propostas de intervenção e soluções apresentadas.| 3     | 2      |
-| 9 | Alta      |Como auditor fiscal, quero que sejam identificadas e documentadas as anomalias inconsistências no histórico operacional anual de exportação e importação, para fundamentar a tomada de decisões estratégicas concernente ao momento ideal de alocação e retenção de capital.| 8       | 2      |
-| 10 | Média     |Como especialista em gestão de cadeia de suprimentos, quero que seja detalhada a estrutura e a metodologia e ajuste operacional das entidades frente às flutuações sazonais do ciclo anual, para aprimorar a validação e o discernimento dos dados apresentados.| 4       | 3      |
-| 11 | Baixa |Como engenheiro de qualidade, quero que seja verificada a conformidade e a viabilidade do produto a ser exportado em relação aos padrões técnicos e às necessidades do consumidor para implementar ações corretivas e ajustes no design ou no processo, mediante a detecção de não-conformidades.| 7       | 3      |
-| 12 | Baixa |Como estrategista de desenvolvimento do mercado, quero que seja quantificado o impacto de um nicho de mercado reduzido na performance global das vendas dos bens, para subsidiar decisões de investimento e promover o incentido e a expanção da cadeira de suprimentos em novos mecados internacionais| 8       | 3      |
-| 13 | Média |Como cientista de dados, quero que sejam apresentadas as projeções e as métricas preditivasd relativas ao desempenho futuro do nosso empreendimento, para validar se a estratégia atual converge com os objetivos e targets estabelecidos, ou se é mandatória uma restauração do planejamento tático.| 8       | 3      |
+| 1    | Alta       | Como tomador de decisões públicas, quero um panorama macroeconômico sintético da balança comercial brasileira de exportação e importação, para embasar a formulação de estratégias.  | 5          | 1      |
+| 2    | Alta       | Como tomador de decisões públicas, quero o detalhamento dos modais logísticos (ferroviário, hidroviário e aéreo) empregados em cada estado para uma análise territorial precisa.| 2          | 1      |
+| 3    | Média       |Como tomador de decisões públicas,  quero a discriminação dos produtos exportados por município dentro do estado de São Paulo para identificar e mapear clientes estratégicos por categoria de produto.                     | 3          | 1      |
+| 4  | Alta      | Como tomador de decisões públicas, quero que os dados quantitativos e qualitativos detalhados do comércio exterior (importação/exportação) brasileiro para avaliar o posicionamento e a competitividade da economia nacional no mercado global.                                                                                                                         | 3        | 2    |
+| 5  | Média      | Como consultor de decisões públicas, quero que a elucidação das alíquotas tarifárias e dos tratados internacionais vigentes para otimizar a estratégia operacional e fiscal a ser implementada. | 8          | 2      |
+| 6  | Alta      | Como tomador de decisões públicas, quero que a explicitação das modalidades de transporte utilizadas para otimizar o planejamento e o gerenciamento do fluxo e da entrega das cargas | 4     | 2      |
+| 7 | Média      |Como tomador de decisões públicas, quero que a análise do impacto das maiores entidades importadoras sobre a estrutura e o desempenho da economia regional, para subsidiar uma avaliação rigorosa de propostas de intervenção| 3     | 2      |
+| 9 | Alta      |Como tomador de decisões públicas, quero que a identificação e documentação de anomalias e inconsistências no histórico anual de comércio exterior (exportação/importação) para fundamentar decisões estratégicas sobre alocação e retenção de capital.| 8       | 2      |
+| 10 | Média     |Como tomador de decisões públicas, quero que o detalhamento da estrutura, da metodologia e dos ajustes operacionais adotados pelas entidades diante das flutuações sazonais, visando aprimorar a validação e o discernimento dos dados fornecidos.| 4       | 3      |
+| 11 | Baixa |Como tomador de decisões públicas, quero verificar a conformidade e a viabilidade do produto de exportação (padrões técnicos e necessidades do consumidor) para implementar ajustes e ações corretivas.| 7       | 3      |
+| 12 | Baixa |Como tomador de decisões públicas, quero que  ao quantificar o impacto de um nicho de mercado restrito na performance global de vendas para subsidiar decisões de investimento e incentivar a expansão da cadeia de suprimentos.| 8       | 3      |
+| 13 | Média |Como tomador de decisões públicas, quero as projeções e métricas preditivas do desempenho futuro para validar se a estratégia atual atinge os objetivos, ou se uma revisão tática é necessária.| 8       | 3      |
 
 
 
